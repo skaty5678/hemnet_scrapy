@@ -1,0 +1,693 @@
+{
+    "0": {
+        "street name": "Svetsaregatan 8",
+        "price": "7000000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "116",
+            "Biarea": "42",
+            "Tomtarea": "625",
+            "Byggår": "1958",
+            "Driftkostnad": "40631"
+        }
+    },
+    "1": {
+        "street name": "Bronsyxegatan 6",
+        "price": "5795000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "80",
+            "Biarea": "77",
+            "Tomtarea": "611",
+            "Byggår": "1964",
+            "Driftkostnad": "46200"
+        }
+    },
+    "2": {
+        "street name": "Bastebergsvägen 18",
+        "price": "22000000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "265",
+            "Biarea": "32",
+            "Tomtarea": "1211",
+            "Byggår": "1998",
+            "Driftkostnad": "135100"
+        }
+    },
+    "3": {
+        "street name": "Lilla Skogsrydsgatan 1",
+        "price": "10500000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "200",
+            "Biarea": "63",
+            "Tomtarea": "1024,4",
+            "Byggår": "1925",
+            "Driftkostnad": "40017"
+        }
+    },
+    "4": {
+        "street name": "Norra Saltsjönäsvägen 12",
+        "price": "9890000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "193",
+            "Biarea": "63",
+            "Tomtarea": "1028",
+            "Byggår": "1938",
+            "Driftkostnad": "50600"
+        }
+    },
+    "5": {
+        "street name": "Bronsfyndsgatan 28",
+        "price": "6495000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "8rum",
+            "Boarea": "143",
+            "Biarea": "55",
+            "Tomtarea": "583",
+            "Byggår": "1972",
+            "Driftkostnad": "56913"
+        }
+    },
+    "6": {
+        "street name": "Rodergatan 6",
+        "price": "8900000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "96",
+            "Biarea": "92",
+            "Tomtarea": "747,3",
+            "Uteplats": "Ja",
+            "Byggår": "1953",
+            "Energiklass": "G",
+            "Driftkostnad": "57937"
+        }
+    },
+    "7": {
+        "street name": "Skogsrydsgatan 6B",
+        "price": "9500000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "154",
+            "Biarea": "33",
+            "Tomtarea": "886,7",
+            "Byggår": "1960",
+            "Driftkostnad": "45400"
+        }
+    },
+    "8": {
+        "street name": "Tånguddsbacken 7",
+        "price": "6750000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Bostadsrätt",
+            "Antal rum": "4rum",
+            "Boarea": "103",
+            "Uteplats": "Ja",
+            "Byggår": "2008",
+            "Förening": "",
+            "Avgift": "3757",
+            "Driftkostnad": "19900"
+        }
+    },
+    "9": {
+        "street name": "Koggegatan 12",
+        "price": "7250000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "142",
+            "Biarea": "10",
+            "Tomtarea": "650,2",
+            "Byggår": "1974"
+        }
+    },
+    "10": {
+        "street name": "Tånguddsbacken 22",
+        "price": "8790000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Bostadsrätt",
+            "Antal rum": "5rum",
+            "Boarea": "136",
+            "Uteplats": "Ja",
+            "Byggår": "2008",
+            "Förening": "",
+            "Avgift": "4747"
+        }
+    },
+    "11": {
+        "street name": "Tynneredsvägen 19A",
+        "price": "7290000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "5rum",
+            "Boarea": "115",
+            "Biarea": "100",
+            "Tomtarea": "595",
+            "Byggår": "1973",
+            "Driftkostnad": "34500"
+        }
+    },
+    "12": {
+        "street name": "Dörjeskärsgatan 27",
+        "price": "6500000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "8rum",
+            "Boarea": "157",
+            "Biarea": "92",
+            "Tomtarea": "659,7",
+            "Uteplats": "Ja",
+            "Byggår": "1970",
+            "Driftkostnad": "42830",
+            "Tomträttsavgäld": "21756"
+        }
+    },
+    "13": {
+        "street name": "Knarrholmen Hus nr 28",
+        "price": "5800000",
+        "attrs": {
+            "Bostadstyp": "Vinterbonatfritidshus",
+            "Upplåtelseform": "Bostadsrätt",
+            "Antal rum": "4rum",
+            "Boarea": "55",
+            "Biarea": "25",
+            "Byggår": "2018",
+            "Förening": "",
+            "Avgift": "1071",
+            "Driftkostnad": "19900"
+        }
+    },
+    "14": {
+        "street name": "Hasslingegatan 15",
+        "price": "7750000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "8rum",
+            "Boarea": "131",
+            "Biarea": "96",
+            "Tomtarea": "872",
+            "Byggår": "1971",
+            "Driftkostnad": "63363",
+            "Tomträttsavgäld": "21480"
+        }
+    },
+    "15": {
+        "street name": "Solhöjdsgatan 24",
+        "price": "48500000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "12rum",
+            "Boarea": "528",
+            "Biarea": "62",
+            "Tomtarea": "2230",
+            "Byggår": "1910",
+            "Driftkostnad": "77300"
+        }
+    },
+    "16": {
+        "street name": "Källängsgatan 13",
+        "price": "8950000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "160",
+            "Tomtarea": "995,4",
+            "Byggår": "1946",
+            "Driftkostnad": "38161"
+        }
+    },
+    "17": {
+        "street name": "Källviksvägen 13",
+        "price": "8250000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "187",
+            "Tomtarea": "817",
+            "Byggår": "1975",
+            "Driftkostnad": "67532"
+        }
+    },
+    "18": {
+        "street name": "Lavettgatan 2A",
+        "price": "12000000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "8rum",
+            "Boarea": "236",
+            "Biarea": "108",
+            "Tomtarea": "915,4",
+            "Byggår": "1963",
+            "Driftkostnad": "44800"
+        }
+    },
+    "19": {
+        "street name": "Fältskärsgatan 4",
+        "price": "10950000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "141",
+            "Biarea": "72",
+            "Tomtarea": "810,2",
+            "Byggår": "1964",
+            "Driftkostnad": "39124"
+        }
+    },
+    "20": {
+        "street name": "Nya Varvsallén 13 B",
+        "price": "10840000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "5rum",
+            "Boarea": "154,9",
+            "Tomtarea": "664,4",
+            "Byggår": "2023"
+        }
+    },
+    "21": {
+        "street name": "Cedergatan 30",
+        "price": "11595000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "211",
+            "Biarea": "33",
+            "Tomtarea": "707",
+            "Byggår": "1993",
+            "Driftkostnad": "56263"
+        }
+    },
+    "22": {
+        "street name": "Västerbergsgatan 4",
+        "price": "6995000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "165",
+            "Biarea": "14",
+            "Tomtarea": "651",
+            "Byggår": "1962",
+            "Driftkostnad": "42400"
+        }
+    },
+    "23": {
+        "street name": "Ugglegården 51",
+        "price": "9900000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "5rum",
+            "Boarea": "147",
+            "Biarea": "9",
+            "Tomtarea": "515",
+            "Byggår": "2014",
+            "Driftkostnad": "31015"
+        }
+    },
+    "24": {
+        "street name": "Askims Röseväg 14",
+        "price": "8195000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "8rum",
+            "Boarea": "127",
+            "Biarea": "78",
+            "Tomtarea": "1390",
+            "Balkong": "Ja",
+            "Uteplats": "Ja",
+            "Byggår": "1934",
+            "Driftkostnad": "40901"
+        }
+    },
+    "25": {
+        "street name": "Hovås Länsmansväg 25",
+        "price": "17900000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "193",
+            "Tomtarea": "1297,3",
+            "Byggår": "1960",
+            "Driftkostnad": "53350"
+        }
+    },
+    "26": {
+        "street name": "Golfbacken 1",
+        "price": "22500000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "5rum",
+            "Boarea": "201",
+            "Biarea": "25",
+            "Tomtarea": "477,8",
+            "Byggår": "1996",
+            "Driftkostnad": "20000"
+        }
+    },
+    "27": {
+        "street name": "Askims Kyrkåsväg 13B ",
+        "price": "8950000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "5rum",
+            "Boarea": "126",
+            "Tomtarea": "708",
+            "Byggår": "2020",
+            "Driftkostnad": "26300"
+        }
+    },
+    "28": {
+        "street name": "Slottsskogsgatan 91",
+        "price": "9950000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "8rum",
+            "Boarea": "143",
+            "Biarea": "71",
+            "Tomtarea": "516",
+            "Byggår": "1925",
+            "Driftkostnad": "64613"
+        }
+    },
+    "29": {
+        "street name": "Grinnekärrsvägen 17A",
+        "price": "9750000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "4rum",
+            "Boarea": "150",
+            "Biarea": "25",
+            "Tomtarea": "882,7",
+            "Byggår": "1973",
+            "Driftkostnad": "46928"
+        }
+    },
+    "30": {
+        "street name": "Myrbäcksvägen 34",
+        "price": "8450000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "150",
+            "Tomtarea": "1230",
+            "Byggår": "1930",
+            "Driftkostnad": "39500"
+        }
+    },
+    "31": {
+        "street name": "Kofferdalsvägen 48",
+        "price": "10750000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "8rum",
+            "Boarea": "180",
+            "Biarea": "40",
+            "Tomtarea": "862,3",
+            "Balkong": "Ja",
+            "Uteplats": "Ja",
+            "Byggår": "1995",
+            "Energiklass": "C",
+            "Driftkostnad": "32500"
+        }
+    },
+    "32": {
+        "street name": "Askims Uggleväg 9",
+        "price": "10950000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "165",
+            "Tomtarea": "804"
+        }
+    },
+    "33": {
+        "street name": "Askims Uggleväg 5",
+        "price": "9900000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "131",
+            "Tomtarea": "800"
+        }
+    },
+    "34": {
+        "street name": "Brottkärr Stenkulla 8",
+        "price": "8975000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "164",
+            "Biarea": "20",
+            "Tomtarea": "885,5",
+            "Byggår": "1952",
+            "Driftkostnad": "49400"
+        }
+    },
+    "35": {
+        "street name": "Myrevalevägen 11",
+        "price": "5190000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "6rum",
+            "Boarea": "120",
+            "Biarea": "77",
+            "Tomtarea": "704",
+            "Byggår": "1968",
+            "Driftkostnad": "37463"
+        }
+    },
+    "36": {
+        "street name": "Norra Grinnekärrsvägen 32A ",
+        "price": "20000000",
+        "attrs": {
+            "Bostadstyp": "Villa",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "290",
+            "Tomtarea": "2197",
+            "Byggår": "2023"
+        }
+    },
+    "37": {
+        "street name": "Norra Fiskebäcksvägen 260",
+        "price": "5950000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "5rum",
+            "Boarea": "130",
+            "Biarea": "8",
+            "Tomtarea": "300",
+            "Uteplats": "Ja",
+            "Byggår": "1974",
+            "Energiklass": "D",
+            "Driftkostnad": "37522",
+            "Tomträttsavgäld": "16548"
+        }
+    },
+    "38": {
+        "street name": "Ostrongatan 23",
+        "price": "7950000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "7rum",
+            "Boarea": "177",
+            "Biarea": "36",
+            "Tomtarea": "324,3",
+            "Balkong": "Ja",
+            "Uteplats": "Ja",
+            "Byggår": "1964",
+            "Energiklass": "D",
+            "Driftkostnad": "57950"
+        }
+    },
+    "39": {
+        "street name": "Hammarvägen 346",
+        "price": "4850000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "4rum",
+            "Boarea": "120",
+            "Tomtarea": "151,2",
+            "Byggår": "1976",
+            "Driftkostnad": "14724",
+            "Tomträttsavgäld": "14836"
+        }
+    },
+    "40": {
+        "street name": "Karmosingatan 26",
+        "price": "4790000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "5rum",
+            "Boarea": "121",
+            "Biarea": "1",
+            "Tomtarea": "147",
+            "Byggår": "1967",
+            "Driftkostnad": "47715",
+            "Tomträttsavgäld": "12112"
+        }
+    },
+    "41": {
+        "street name": "Melongatan 165",
+        "price": "4975000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "2rum",
+            "Boarea": "93",
+            "Biarea": "16",
+            "Tomtarea": "198",
+            "Byggår": "1978",
+            "Driftkostnad": "38600",
+            "Tomträttsavgäld": "15928"
+        }
+    },
+    "42": {
+        "street name": "Banjogatan 55",
+        "price": "4200000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "5rum",
+            "Boarea": "90",
+            "Biarea": "18",
+            "Tomtarea": "174,7",
+            "Uteplats": "Ja",
+            "Byggår": "1963",
+            "Driftkostnad": "55345",
+            "Tomträttsavgäld": "12148"
+        }
+    },
+    "43": {
+        "street name": "Korsåsgatan 29",
+        "price": "4500000",
+        "attrs": {
+            "Bostadstyp": "Par-/kedje-/radhus",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "4rum",
+            "Boarea": "109",
+            "Byggår": "1974"
+        }
+    },
+    "44": {
+        "street name": "Gråskärsgatan 89",
+        "price": "4850000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "5rum",
+            "Boarea": "118",
+            "Tomtarea": "179,9",
+            "Uteplats": "Ja",
+            "Byggår": "1968",
+            "Energiklass": "E",
+            "Driftkostnad": "37962",
+            "Tomträttsavgäld": "13228"
+        }
+    },
+    "45": {
+        "street name": "Altfiolgatan 20",
+        "price": "4500000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Tomträtt",
+            "Antal rum": "4rum",
+            "Boarea": "101",
+            "Tomtarea": "211,8",
+            "Byggår": "1964",
+            "Driftkostnad": "26200",
+            "Tomträttsavgäld": "12776"
+        }
+    },
+    "46": {
+        "street name": "Silvertärnegången 23",
+        "price": "7250000",
+        "attrs": {
+            "Bostadstyp": "Radhus",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "5rum",
+            "Boarea": "130",
+            "Biarea": "20",
+            "Tomtarea": "164,7",
+            "Byggår": "1979",
+            "Driftkostnad": "33282"
+        }
+    },
+    "47": {
+        "street name": "Stora Förö A08",
+        "price": "2500000",
+        "attrs": {
+            "Bostadstyp": "Fritidshus",
+            "Upplåtelseform": "Annat",
+            "Antal rum": "1rum",
+            "Boarea": "28",
+            "Biarea": "4",
+            "Uteplats": "Ja",
+            "Byggår": "1950",
+            "Driftkostnad": "9580",
+            "Arrende": "9688"
+        }
+    },
+    "48": {
+        "street name": "Förö Tärnväg 11 - Stora Förö",
+        "price": "5800000",
+        "attrs": {
+            "Bostadstyp": "Fritidshus",
+            "Upplåtelseform": "Äganderätt",
+            "Antal rum": "3rum",
+            "Boarea": "35",
+            "Tomtarea": "1300,7",
+            "Byggår": "1935",
+            "Driftkostnad": "12300"
+        }
+    }
+}
