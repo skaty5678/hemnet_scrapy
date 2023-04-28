@@ -3,7 +3,7 @@
 
 ## Description
 
-The Hemnet Spider is a web crawler built using Scrapy, a Python-based web scraping framework. The spider crawls the hemnet.se website to extract information about villas for sale in a Sweden. The extracted information includes the street name, price, and various attributes such as number of rooms, living area, and plot size.
+The Hemnet Spider is a web crawler built using Scrapy, a Python-based web scraping framework. The spider crawls the hemnet.se website to extract information about villas for sale in Sweden. The extracted information includes the street name, price, and various attributes such as number of rooms, living area, and plot size.
 
 
 ## Usage
